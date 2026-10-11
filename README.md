@@ -125,8 +125,8 @@ Sesuai ketentuan **Guidebook M-ONE Telkomsel Coding Competition 2026 (Halaman 5,
 ### Langkah Instalasi
 1. Kloning repository ini:
    ```bash
-   git clone https://github.com/username/kiddoquest.git
-   cd kiddoquest
+   git clone https://github.com/sufyantsaury753-beep/tobiquest.git
+   cd tobiquest
    ```
 2. Pasang seluruh dependensi:
    ```bash
